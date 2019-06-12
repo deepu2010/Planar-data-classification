@@ -1,5 +1,5 @@
 # Planar-data-classification
-In this notebook, I have built a neural network with a single hidden layer to classify red and blue points in the form a flower.
+In this notebook, I have built a neural network with multiple hidden layers to classify red and blue points in the form a flower.
 
 #### Petal Dataset Visualization:
 
