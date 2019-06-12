@@ -22,6 +22,6 @@ This project is part of my deep learning specialization course from deeplearning
 
 #### Output Achieved
 
-![Alt Text] (https://raw.githubusercontent.com/deepu2010/Planar-data-classification/master/Hidden%20layer%205.JPG)
+![Alt Text](https://raw.githubusercontent.com/deepu2010/Planar-data-classification/master/Hidden%20layer%205.JPG)
 
 
